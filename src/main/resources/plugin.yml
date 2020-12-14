@@ -1,0 +1,10 @@
+name: Doctor
+version: ${project.version}
+main: me.toonamisenpai.doctor.Main
+api-version: 1.16
+authors: [ToonamiSneapi]
+description: Simple Heal Plauign
+website: visengaming.com
+
+commands:
+    Doctor:
